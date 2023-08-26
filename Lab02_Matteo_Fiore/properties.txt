@@ -1,0 +1,3 @@
+buon=good
+giorno=day
+casa=house

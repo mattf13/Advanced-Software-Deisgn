@@ -1,0 +1,1 @@
+I claim all lab points because I did everything including the coding dojo

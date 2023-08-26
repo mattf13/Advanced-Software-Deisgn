@@ -1,0 +1,1 @@
+I claim 5 points as I implemented each part (1,2,3) and made all the tests passed successfully.

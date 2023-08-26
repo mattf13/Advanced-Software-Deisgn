@@ -1,0 +1,2 @@
+I claim 4 points as I did the basic implementation, participated in the coding dojo and implemented the tests using a mock framework (Mockito)
+In the test class I left the original tests and named the tests that use mockito as "...WithMockito()"

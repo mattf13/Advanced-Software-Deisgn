@@ -1,0 +1,1 @@
+I claim 3 points as I implemented all the basic features and I took part in the coding dojo
